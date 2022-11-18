@@ -1,0 +1,11 @@
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\bin\Debug\TourFirmaMarkov.exe.config
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\bin\Debug\TourFirmaMarkov.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\bin\Debug\TourFirmaMarkov.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.csproj.AssemblyReference.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.Form1.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.Properties.Resources.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.csproj.GenerateResource.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.csproj.CoreCompileInputs.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№1_ТурФирма\TourFirmaMarkov\obj\Debug\TourFirmaMarkov.Form2.resources

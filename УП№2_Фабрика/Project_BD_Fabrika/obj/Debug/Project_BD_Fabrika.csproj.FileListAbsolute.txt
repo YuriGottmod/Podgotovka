@@ -1,0 +1,14 @@
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\bin\Debug\Project_BD_Fabrika.exe.config
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\bin\Debug\Project_BD_Fabrika.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\bin\Debug\Project_BD_Fabrika.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.csproj.AssemblyReference.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.Administrator.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.Form1.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.Properties.Resources.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.Rabotnik.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.Zakazchik.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.csproj.GenerateResource.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.csproj.CoreCompileInputs.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№2_Фабрика\Project_BD_Fabrika\obj\Debug\Project_BD_Fabrika.Registration.resources
