@@ -1,0 +1,10 @@
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\bin\Debug\UsersBD.exe.config
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\bin\Debug\UsersBD.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\bin\Debug\UsersBD.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.csproj.AssemblyReference.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.Form1.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.Properties.Resources.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.csproj.GenerateResource.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.csproj.CoreCompileInputs.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_UsersBD\UsersBD\obj\Debug\UsersBD.pdb

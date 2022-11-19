@@ -1,0 +1,11 @@
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\bin\Debug\RiversWorld.exe.config
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\bin\Debug\RiversWorld.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\bin\Debug\RiversWorld.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.csproj.AssemblyReference.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.Form1.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.Properties.Resources.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.csproj.GenerateResource.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.csproj.CoreCompileInputs.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_RiversWorld\RiversWorld\obj\Debug\RiversWorld.Form2.resources
