@@ -1,0 +1,14 @@
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\bin\Debug\ProdazhaCvetov.exe.config
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\bin\Debug\ProdazhaCvetov.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\bin\Debug\ProdazhaCvetov.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.csproj.AssemblyReference.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.Form1.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.Form2.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.Properties.Resources.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.csproj.GenerateResource.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.csproj.CoreCompileInputs.cache
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.exe
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.pdb
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.Form3.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.Form4.resources
+C:\Users\q\Documents\УП ПМ.04 Марков\УП№3_ПродажаЦветов\ProdazhaCvetov\obj\Debug\ProdazhaCvetov.Form5.resources
